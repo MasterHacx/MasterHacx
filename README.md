@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Akash (MasterHacx)
 
-**Sem 6 BSC IT @ Viva College** | Flutter • Python • Kotlin • Firebase • Telegram Bots
-
 ---
 
 ## 🚀 Featured Projects (All Private)
